@@ -1,0 +1,4 @@
+repository "Competition XR@Sethlam@cloud"
+  path "/"
+    br "/main"
+    co "/main"
